@@ -1,5 +1,11 @@
 # DSA Project Group 44 - Assignment Shell
 
+## Project Team
+- Vamsi Krishna Boyina
+- Aniruth Govil
+- Aarush Jain
+- Vaibhav Agarwal
+
 ## The Project
 The assignment shell is compiled using the following lines of code :
 
